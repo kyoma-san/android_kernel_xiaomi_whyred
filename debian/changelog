@@ -1,6 +1,6 @@
-linux-android-xiaomi-whyred (0.0.0+git20260718152005.83e661b.droidian+git20260719035248.14ade08.droidian) trixie; urgency=medium
+linux-android-xiaomi-whyred (4.4.189+git20260719094233.191e800.droidian) trixie; urgency=medium
 
-  * debian: Update skeleton package
+  * Remove wireguard support temporarily and fix dtc-parser script
 
- -- kyoma-san <okarin@duck.com>  Sun, 19 Jul 2026 09:22:48 +0530
+ -- kyoma-san <okarin@duck.com>  Sun, 19 Jul 2026 15:12:33 +0530
 
