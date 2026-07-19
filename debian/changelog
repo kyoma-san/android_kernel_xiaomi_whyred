@@ -1,0 +1,6 @@
+linux-android-xiaomi-whyred (0.0.0+git20260718152005.83e661b.droidian) trixie; urgency=medium
+
+  * kernel-info: Adapt halium 9 changes
+
+ -- kyoma-san <okarin@duck.com>  Sat, 18 Jul 2026 20:50:05 +0530
+
