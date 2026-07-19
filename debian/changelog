@@ -1,6 +1,6 @@
-linux-android-xiaomi-whyred (0.0.0+git20260718152005.83e661b.droidian) trixie; urgency=medium
+linux-android-xiaomi-whyred (0.0.0+git20260718152005.83e661b.droidian+git20260719035248.14ade08.droidian) trixie; urgency=medium
 
-  * kernel-info: Adapt halium 9 changes
+  * debian: Update skeleton package
 
- -- kyoma-san <okarin@duck.com>  Sat, 18 Jul 2026 20:50:05 +0530
+ -- kyoma-san <okarin@duck.com>  Sun, 19 Jul 2026 09:22:48 +0530
 
